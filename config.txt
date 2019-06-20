@@ -1,6 +1,6 @@
 owner=490871722011131935
-prefix=1
-game=1play|#PG Community
-stayinchannel=false
+prefix=3
+game=3play|#PG Community
+stayinchannel=true
 songinstatus=false
-token=NTc4NTQzMjExOTMzNTk3Njk2.XN1IeQ.3Ywl4fcjFG1iK91fj0q8WFUbiUM
+token=NTkxMjE3Mjg5NjU5OTQwODg3.XQtkLw.BgRorF6cQRv2Tcn18qNoOLYoVPU
